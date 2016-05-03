@@ -1,14 +1,14 @@
-layout_spectrum: 0.9930287
-typography_spectrum: 0.5286883
+layout_spectrum: 0.1791045
 color:
   saturation: 0.1840444
   lightness: 0.882261
-  brandStrength: 0.9290879
-  rhythmicContrast: 0.2690452
+  brandStrength: 1
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#0D0D0D'
+    - '#FCFCFC'
+    - '#5D5D5D'
+    - '#939393'
+    - '#C8C8C8'
+  rhythmicContrast: 0.2690452
+typography_spectrum: 0.5286883
 name: JonTheDweeb
