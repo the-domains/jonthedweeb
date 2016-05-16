@@ -1,14 +1,28 @@
-layout_spectrum: 0.1791045
-color:
-  saturation: 0.1840444
-  lightness: 0.882261
-  brandStrength: 1
-  brandColors:
-    - '#0D0D0D'
-    - '#FCFCFC'
-    - '#5D5D5D'
-    - '#939393'
-    - '#C8C8C8'
-  rhythmicContrast: 0.2690452
-typography_spectrum: 0.5286883
 name: JonTheDweeb
+favicon: null
+layout_spectrum: 0.7485
+typography_spectrum: 0.5286883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0a83ae'
+    - '#7effff'
+    - '#2caed2'
+    - '#2ddaff'
+    - '#e5ffff'
+  brandStrength: 1
+  lightness: 0.882261
+  saturation: 0.1840444
+  rhythmicContrast: 0.2690452
+purpose: []
