@@ -5,12 +5,20 @@ inNav: false
 isBasedOnUrl: 'http://www.thewebguys.co.uk'
 inLanguage: null
 keywords: []
-description: 'Keep track of your customers (CRM), workflow (projects and tasks), and finances (invoicing, quoting, cashbook). You get a 2 user account free with your website (each additional user £1.99/month). Take a look at our brief tour video! (By the way, ToolBox used to be called Mother, in case you are a traveller from the past!)'
-datePublished: '2016-05-16T18:41:59.928Z'
-dateModified: '2016-05-16T18:41:52.304Z'
-title: 'Affordable Web Design | Low Cost Web Design | The Web Guys'
-author: []
-sourcePath: _posts/2016-05-16-affordable-web-design-or-low-cost-web-design-or-the-web-guys.md
+description: >-
+  Keep track of your customers (CRM), workflow (projects and tasks), and
+  finances (invoicing, quoting, cashbook). You get a 2 user account free with
+  your website (each additional user £1.99/month). Take a look at our brief tour
+  video! (By the way, ToolBox used to be called Mother, in case you are a
+  traveller from the past!)
+datePublished: '2016-08-08T18:43:54.990Z'
+dateModified: '2016-05-16T18:42:05.991Z'
+title: Affordable Web Design | Low Cost Web Design | The Web Guys
+author:
+  - name: ''
+    url: ''
+sourcePath: >-
+  _posts/2016-05-16-affordable-web-design-or-low-cost-web-design-or-the-web-guys.md
 authors: []
 publisher:
   name: null
