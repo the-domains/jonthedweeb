@@ -1,28 +1,40 @@
-name: JonTheDweeb
-favicon: null
-layout_spectrum: 0.7485
-typography_spectrum: 0.5286883
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.1441231
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1840444
+  brandStrength: 1
+  rhythmicContrast: 0.2690452
   brandColors:
     - '#0a83ae'
     - '#7effff'
     - '#2caed2'
     - '#2ddaff'
     - '#e5ffff'
-  brandStrength: 1
   lightness: 0.882261
-  saturation: 0.1840444
-  rhythmicContrast: 0.2690452
-purpose: []
+typography_spectrum: 0.3969216
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: JonTheDweeb
