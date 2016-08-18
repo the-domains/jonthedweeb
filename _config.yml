@@ -1,6 +1,6 @@
 name: JonTheDweeb
 favicon: null
-layout_spectrum: 0.67259
+layout_spectrum: 0.75623
 typography_spectrum: 0.3969216
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#2caed2'
     - '#2ddaff'
     - '#e5ffff'
-  brandStrength: 0.5
-  lightness: 1
+  brandStrength: 0.75
+  lightness: 0.4375
   saturation: 0.875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
