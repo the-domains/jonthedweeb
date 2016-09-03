@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T15:43:40.309Z'
+datePublished: '2016-08-31T15:43:41.678Z'
 sourcePath: _posts/2016-08-08-like-a-rocket-round-the-sun.md
 inFeed: true
 authors: []
