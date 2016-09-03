@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T15:42:09.574Z'
+datePublished: '2016-08-31T15:43:40.309Z'
 sourcePath: _posts/2016-08-08-like-a-rocket-round-the-sun.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T15:42:05.195Z'
+dateModified: '2016-08-31T15:43:39.267Z'
 title: ''
 publisher: {}
 description: Wild Child or Big Softy?
