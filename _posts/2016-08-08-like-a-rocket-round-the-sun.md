@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Like a rocket round the sun
-datePublished: '2016-08-18T17:15:06.346Z'
-dateModified: '2016-08-18T17:12:45.970Z'
+datePublished: '2016-08-31T15:28:41.856Z'
+dateModified: '2016-08-31T15:28:41.415Z'
 title: ''
 author:
   - name: ''
@@ -15,13 +14,10 @@ author:
 via: {}
 sourcePath: _posts/2016-08-08-like-a-rocket-round-the-sun.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: true
-_type: Blurb
+url: look-out/index.html
+_type: Article
 
 ---
 Like a rocket round the sun
